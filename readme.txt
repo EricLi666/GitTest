@@ -8,3 +8,4 @@ Test merge --no-ff.
 Test stash function.
 ++++++
 Multi-cooperate conflict.
+
