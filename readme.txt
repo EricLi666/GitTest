@@ -5,3 +5,4 @@ Git tracks changes.
 Create a new branch is quickly.
 Create a new branch is quick and simple.
 Test merge --no-ff.
+Test stash function.
