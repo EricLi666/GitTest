@@ -7,3 +7,4 @@ Create a new branch is quick and simple.
 Test merge --no-ff.
 Test stash function.
 ++++++
+Muti-cooperate.
